@@ -11,5 +11,6 @@
 	        $message = "g-recaptcha varified successfully";
         else
 	        $message = "Some error in vrifying g-recaptcha";
+	echo $message;
    }
 ?>
